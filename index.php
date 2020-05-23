@@ -14,13 +14,19 @@
 
 		<body>
 			<header>
-
+				<?php
+					include('top.php');
+					include('menu.php');
+				?>
 			</header>
 
 			<main>
 			</main>
 
 			<footer>
+				<?php
+					include('bottom.php');
+				?>
 			</footer>
 		</body>
 
