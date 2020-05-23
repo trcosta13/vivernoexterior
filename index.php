@@ -10,6 +10,8 @@
 			<meta name="author" content="Imaggine IT Solutions" />
 			<meta name="robots" content="index, follow" />
 			<meta name="revisit-after" content="5 days" />
+			<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+			<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
 		</head>
 
 		<body>
